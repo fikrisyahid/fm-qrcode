@@ -24,6 +24,10 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - HTML
 - CSS
 
+### Live links
+- [Deployment](https://fm-qrcode-lac.vercel.app/)
+- [Repository](https://github.com/fikrisyahid/fm-qrcode)
+
 ### What I learned
 
 I learned how to use the parent and child css class and how to load font with link. I also discovered that to import a font using link I need to specify the weight on the URL.
